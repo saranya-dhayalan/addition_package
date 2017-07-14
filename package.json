@@ -1,0 +1,23 @@
+{
+  "name": "addition_package",
+  "version": "1.0.0",
+  "description": "adding two number",
+  "main": "index.js",
+  "scripts": {
+    "test": "addition "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranya-dhayalan/addition_package.git"
+  },
+  "keywords": [
+    "addition",
+    "add"
+  ],
+  "author": "saranya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saranya-dhayalan/addition_package/issues"
+  },
+  "homepage": "https://github.com/saranya-dhayalan/addition_package#readme"
+}
